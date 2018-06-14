@@ -48,7 +48,7 @@ A more thorough style guide will be produced as soon as possible, for now here a
 * We give our variables, functions, classes, etc. good descriptive names (This is hard, and I very much appreciate any suggestions for changes of current names, that could be improved).
   * We follow [google's naming guidelines](https://google.github.io/styleguide/pyguide.html?showone=Naming#Naming)
 
-# How to in github:
+# How to get into github:
 
 ## How to open an issue
 1. Right below the blue words lineaba/prog-o-meter, there is a menu line. Select the tab __Issues__ 
